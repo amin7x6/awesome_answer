@@ -126,7 +126,7 @@ GEM
       activesupport (>= 3.2)
       choice (~> 0.2.0)
       ruby-graphviz (~> 1.2)
-    rails-html-sanitizer (1.0.3)
+    rails-html-sanitizer ~> 1.0.4
       loofah (~> 2.0)
     railties (5.0.2)
       actionpack (= 5.0.2)
